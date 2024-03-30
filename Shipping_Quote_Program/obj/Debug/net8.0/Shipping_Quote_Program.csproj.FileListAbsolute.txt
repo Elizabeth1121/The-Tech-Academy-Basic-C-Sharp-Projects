@@ -1,0 +1,14 @@
+C:\Users\itsyb\OneDrive\Documents\Shipping_Quote_Program\bin\Debug\net8.0\Shipping_Quote_Program.exe
+C:\Users\itsyb\OneDrive\Documents\Shipping_Quote_Program\bin\Debug\net8.0\Shipping_Quote_Program.deps.json
+C:\Users\itsyb\OneDrive\Documents\Shipping_Quote_Program\bin\Debug\net8.0\Shipping_Quote_Program.runtimeconfig.json
+C:\Users\itsyb\OneDrive\Documents\Shipping_Quote_Program\bin\Debug\net8.0\Shipping_Quote_Program.dll
+C:\Users\itsyb\OneDrive\Documents\Shipping_Quote_Program\bin\Debug\net8.0\Shipping_Quote_Program.pdb
+C:\Users\itsyb\OneDrive\Documents\Shipping_Quote_Program\obj\Debug\net8.0\Shipping_Quote_Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itsyb\OneDrive\Documents\Shipping_Quote_Program\obj\Debug\net8.0\Shipping_Quote_Program.AssemblyInfoInputs.cache
+C:\Users\itsyb\OneDrive\Documents\Shipping_Quote_Program\obj\Debug\net8.0\Shipping_Quote_Program.AssemblyInfo.cs
+C:\Users\itsyb\OneDrive\Documents\Shipping_Quote_Program\obj\Debug\net8.0\Shipping_Quote_Program.csproj.CoreCompileInputs.cache
+C:\Users\itsyb\OneDrive\Documents\Shipping_Quote_Program\obj\Debug\net8.0\Shipping_Quote_Program.dll
+C:\Users\itsyb\OneDrive\Documents\Shipping_Quote_Program\obj\Debug\net8.0\refint\Shipping_Quote_Program.dll
+C:\Users\itsyb\OneDrive\Documents\Shipping_Quote_Program\obj\Debug\net8.0\Shipping_Quote_Program.pdb
+C:\Users\itsyb\OneDrive\Documents\Shipping_Quote_Program\obj\Debug\net8.0\Shipping_Quote_Program.genruntimeconfig.cache
+C:\Users\itsyb\OneDrive\Documents\Shipping_Quote_Program\obj\Debug\net8.0\ref\Shipping_Quote_Program.dll
