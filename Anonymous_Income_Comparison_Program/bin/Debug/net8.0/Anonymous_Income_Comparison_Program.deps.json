@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Anonymous_Income_Comparison_Program/1.0.0": {
+        "runtime": {
+          "Anonymous_Income_Comparison_Program.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Anonymous_Income_Comparison_Program/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
