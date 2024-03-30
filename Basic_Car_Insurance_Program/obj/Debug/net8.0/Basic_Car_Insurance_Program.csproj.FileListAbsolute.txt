@@ -1,0 +1,14 @@
+C:\Users\itsyb\OneDrive\Documents\Basic_Car_Insurance_Program\bin\Debug\net8.0\Basic_Car_Insurance_Program.exe
+C:\Users\itsyb\OneDrive\Documents\Basic_Car_Insurance_Program\bin\Debug\net8.0\Basic_Car_Insurance_Program.deps.json
+C:\Users\itsyb\OneDrive\Documents\Basic_Car_Insurance_Program\bin\Debug\net8.0\Basic_Car_Insurance_Program.runtimeconfig.json
+C:\Users\itsyb\OneDrive\Documents\Basic_Car_Insurance_Program\bin\Debug\net8.0\Basic_Car_Insurance_Program.dll
+C:\Users\itsyb\OneDrive\Documents\Basic_Car_Insurance_Program\bin\Debug\net8.0\Basic_Car_Insurance_Program.pdb
+C:\Users\itsyb\OneDrive\Documents\Basic_Car_Insurance_Program\obj\Debug\net8.0\Basic_Car_Insurance_Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itsyb\OneDrive\Documents\Basic_Car_Insurance_Program\obj\Debug\net8.0\Basic_Car_Insurance_Program.AssemblyInfoInputs.cache
+C:\Users\itsyb\OneDrive\Documents\Basic_Car_Insurance_Program\obj\Debug\net8.0\Basic_Car_Insurance_Program.AssemblyInfo.cs
+C:\Users\itsyb\OneDrive\Documents\Basic_Car_Insurance_Program\obj\Debug\net8.0\Basic_Car_Insurance_Program.csproj.CoreCompileInputs.cache
+C:\Users\itsyb\OneDrive\Documents\Basic_Car_Insurance_Program\obj\Debug\net8.0\Basic_Car_Insurance_Program.dll
+C:\Users\itsyb\OneDrive\Documents\Basic_Car_Insurance_Program\obj\Debug\net8.0\refint\Basic_Car_Insurance_Program.dll
+C:\Users\itsyb\OneDrive\Documents\Basic_Car_Insurance_Program\obj\Debug\net8.0\Basic_Car_Insurance_Program.pdb
+C:\Users\itsyb\OneDrive\Documents\Basic_Car_Insurance_Program\obj\Debug\net8.0\Basic_Car_Insurance_Program.genruntimeconfig.cache
+C:\Users\itsyb\OneDrive\Documents\Basic_Car_Insurance_Program\obj\Debug\net8.0\ref\Basic_Car_Insurance_Program.dll
