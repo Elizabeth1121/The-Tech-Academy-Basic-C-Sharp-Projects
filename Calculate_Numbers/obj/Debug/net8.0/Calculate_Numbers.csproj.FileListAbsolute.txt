@@ -1,0 +1,14 @@
+C:\Users\itsyb\OneDrive\Documents\Calculate_Numbers\bin\Debug\net8.0\Calculate_Numbers.exe
+C:\Users\itsyb\OneDrive\Documents\Calculate_Numbers\bin\Debug\net8.0\Calculate_Numbers.deps.json
+C:\Users\itsyb\OneDrive\Documents\Calculate_Numbers\bin\Debug\net8.0\Calculate_Numbers.runtimeconfig.json
+C:\Users\itsyb\OneDrive\Documents\Calculate_Numbers\bin\Debug\net8.0\Calculate_Numbers.dll
+C:\Users\itsyb\OneDrive\Documents\Calculate_Numbers\bin\Debug\net8.0\Calculate_Numbers.pdb
+C:\Users\itsyb\OneDrive\Documents\Calculate_Numbers\obj\Debug\net8.0\Calculate_Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itsyb\OneDrive\Documents\Calculate_Numbers\obj\Debug\net8.0\Calculate_Numbers.AssemblyInfoInputs.cache
+C:\Users\itsyb\OneDrive\Documents\Calculate_Numbers\obj\Debug\net8.0\Calculate_Numbers.AssemblyInfo.cs
+C:\Users\itsyb\OneDrive\Documents\Calculate_Numbers\obj\Debug\net8.0\Calculate_Numbers.csproj.CoreCompileInputs.cache
+C:\Users\itsyb\OneDrive\Documents\Calculate_Numbers\obj\Debug\net8.0\Calculate_Numbers.dll
+C:\Users\itsyb\OneDrive\Documents\Calculate_Numbers\obj\Debug\net8.0\refint\Calculate_Numbers.dll
+C:\Users\itsyb\OneDrive\Documents\Calculate_Numbers\obj\Debug\net8.0\Calculate_Numbers.pdb
+C:\Users\itsyb\OneDrive\Documents\Calculate_Numbers\obj\Debug\net8.0\Calculate_Numbers.genruntimeconfig.cache
+C:\Users\itsyb\OneDrive\Documents\Calculate_Numbers\obj\Debug\net8.0\ref\Calculate_Numbers.dll
