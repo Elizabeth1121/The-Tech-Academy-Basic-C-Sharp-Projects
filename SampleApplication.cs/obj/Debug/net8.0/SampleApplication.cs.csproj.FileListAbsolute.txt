@@ -1,0 +1,14 @@
+C:\Users\itsyb\OneDrive\Documents\SampleApplication.cs\bin\Debug\net8.0\SampleApplication.cs.exe
+C:\Users\itsyb\OneDrive\Documents\SampleApplication.cs\bin\Debug\net8.0\SampleApplication.cs.deps.json
+C:\Users\itsyb\OneDrive\Documents\SampleApplication.cs\bin\Debug\net8.0\SampleApplication.cs.runtimeconfig.json
+C:\Users\itsyb\OneDrive\Documents\SampleApplication.cs\bin\Debug\net8.0\SampleApplication.cs.dll
+C:\Users\itsyb\OneDrive\Documents\SampleApplication.cs\bin\Debug\net8.0\SampleApplication.cs.pdb
+C:\Users\itsyb\OneDrive\Documents\SampleApplication.cs\obj\Debug\net8.0\SampleApplication.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itsyb\OneDrive\Documents\SampleApplication.cs\obj\Debug\net8.0\SampleApplication.cs.AssemblyInfoInputs.cache
+C:\Users\itsyb\OneDrive\Documents\SampleApplication.cs\obj\Debug\net8.0\SampleApplication.cs.AssemblyInfo.cs
+C:\Users\itsyb\OneDrive\Documents\SampleApplication.cs\obj\Debug\net8.0\SampleApplication.cs.csproj.CoreCompileInputs.cache
+C:\Users\itsyb\OneDrive\Documents\SampleApplication.cs\obj\Debug\net8.0\SampleApplication.cs.dll
+C:\Users\itsyb\OneDrive\Documents\SampleApplication.cs\obj\Debug\net8.0\refint\SampleApplication.cs.dll
+C:\Users\itsyb\OneDrive\Documents\SampleApplication.cs\obj\Debug\net8.0\SampleApplication.cs.pdb
+C:\Users\itsyb\OneDrive\Documents\SampleApplication.cs\obj\Debug\net8.0\SampleApplication.cs.genruntimeconfig.cache
+C:\Users\itsyb\OneDrive\Documents\SampleApplication.cs\obj\Debug\net8.0\ref\SampleApplication.cs.dll
