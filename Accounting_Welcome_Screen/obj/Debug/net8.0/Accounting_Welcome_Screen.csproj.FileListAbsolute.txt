@@ -1,0 +1,14 @@
+C:\Users\itsyb\OneDrive\Documents\Accounting_Welcome_Screen\bin\Debug\net8.0\Accounting_Welcome_Screen.exe
+C:\Users\itsyb\OneDrive\Documents\Accounting_Welcome_Screen\bin\Debug\net8.0\Accounting_Welcome_Screen.deps.json
+C:\Users\itsyb\OneDrive\Documents\Accounting_Welcome_Screen\bin\Debug\net8.0\Accounting_Welcome_Screen.runtimeconfig.json
+C:\Users\itsyb\OneDrive\Documents\Accounting_Welcome_Screen\bin\Debug\net8.0\Accounting_Welcome_Screen.dll
+C:\Users\itsyb\OneDrive\Documents\Accounting_Welcome_Screen\bin\Debug\net8.0\Accounting_Welcome_Screen.pdb
+C:\Users\itsyb\OneDrive\Documents\Accounting_Welcome_Screen\obj\Debug\net8.0\Accounting_Welcome_Screen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itsyb\OneDrive\Documents\Accounting_Welcome_Screen\obj\Debug\net8.0\Accounting_Welcome_Screen.AssemblyInfoInputs.cache
+C:\Users\itsyb\OneDrive\Documents\Accounting_Welcome_Screen\obj\Debug\net8.0\Accounting_Welcome_Screen.AssemblyInfo.cs
+C:\Users\itsyb\OneDrive\Documents\Accounting_Welcome_Screen\obj\Debug\net8.0\Accounting_Welcome_Screen.csproj.CoreCompileInputs.cache
+C:\Users\itsyb\OneDrive\Documents\Accounting_Welcome_Screen\obj\Debug\net8.0\Accounting_Welcome_Screen.dll
+C:\Users\itsyb\OneDrive\Documents\Accounting_Welcome_Screen\obj\Debug\net8.0\refint\Accounting_Welcome_Screen.dll
+C:\Users\itsyb\OneDrive\Documents\Accounting_Welcome_Screen\obj\Debug\net8.0\Accounting_Welcome_Screen.pdb
+C:\Users\itsyb\OneDrive\Documents\Accounting_Welcome_Screen\obj\Debug\net8.0\Accounting_Welcome_Screen.genruntimeconfig.cache
+C:\Users\itsyb\OneDrive\Documents\Accounting_Welcome_Screen\obj\Debug\net8.0\ref\Accounting_Welcome_Screen.dll
