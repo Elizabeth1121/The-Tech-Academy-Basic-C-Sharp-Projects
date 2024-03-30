@@ -1,0 +1,14 @@
+C:\Users\itsyb\OneDrive\Documents\Daily_Report_The_Tech_Academy\bin\Debug\net8.0\Daily_Report_The_Tech_Academy.exe
+C:\Users\itsyb\OneDrive\Documents\Daily_Report_The_Tech_Academy\bin\Debug\net8.0\Daily_Report_The_Tech_Academy.deps.json
+C:\Users\itsyb\OneDrive\Documents\Daily_Report_The_Tech_Academy\bin\Debug\net8.0\Daily_Report_The_Tech_Academy.runtimeconfig.json
+C:\Users\itsyb\OneDrive\Documents\Daily_Report_The_Tech_Academy\bin\Debug\net8.0\Daily_Report_The_Tech_Academy.dll
+C:\Users\itsyb\OneDrive\Documents\Daily_Report_The_Tech_Academy\bin\Debug\net8.0\Daily_Report_The_Tech_Academy.pdb
+C:\Users\itsyb\OneDrive\Documents\Daily_Report_The_Tech_Academy\obj\Debug\net8.0\Daily_Report_The_Tech_Academy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itsyb\OneDrive\Documents\Daily_Report_The_Tech_Academy\obj\Debug\net8.0\Daily_Report_The_Tech_Academy.AssemblyInfoInputs.cache
+C:\Users\itsyb\OneDrive\Documents\Daily_Report_The_Tech_Academy\obj\Debug\net8.0\Daily_Report_The_Tech_Academy.AssemblyInfo.cs
+C:\Users\itsyb\OneDrive\Documents\Daily_Report_The_Tech_Academy\obj\Debug\net8.0\Daily_Report_The_Tech_Academy.csproj.CoreCompileInputs.cache
+C:\Users\itsyb\OneDrive\Documents\Daily_Report_The_Tech_Academy\obj\Debug\net8.0\Daily_Report_The_Tech_Academy.dll
+C:\Users\itsyb\OneDrive\Documents\Daily_Report_The_Tech_Academy\obj\Debug\net8.0\refint\Daily_Report_The_Tech_Academy.dll
+C:\Users\itsyb\OneDrive\Documents\Daily_Report_The_Tech_Academy\obj\Debug\net8.0\Daily_Report_The_Tech_Academy.pdb
+C:\Users\itsyb\OneDrive\Documents\Daily_Report_The_Tech_Academy\obj\Debug\net8.0\Daily_Report_The_Tech_Academy.genruntimeconfig.cache
+C:\Users\itsyb\OneDrive\Documents\Daily_Report_The_Tech_Academy\obj\Debug\net8.0\ref\Daily_Report_The_Tech_Academy.dll
