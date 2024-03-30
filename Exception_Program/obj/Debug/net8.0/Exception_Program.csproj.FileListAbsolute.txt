@@ -1,0 +1,14 @@
+C:\Users\itsyb\OneDrive\Documents\Exception_Program\bin\Debug\net8.0\Exception_Program.exe
+C:\Users\itsyb\OneDrive\Documents\Exception_Program\bin\Debug\net8.0\Exception_Program.deps.json
+C:\Users\itsyb\OneDrive\Documents\Exception_Program\bin\Debug\net8.0\Exception_Program.runtimeconfig.json
+C:\Users\itsyb\OneDrive\Documents\Exception_Program\bin\Debug\net8.0\Exception_Program.dll
+C:\Users\itsyb\OneDrive\Documents\Exception_Program\bin\Debug\net8.0\Exception_Program.pdb
+C:\Users\itsyb\OneDrive\Documents\Exception_Program\obj\Debug\net8.0\Exception_Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itsyb\OneDrive\Documents\Exception_Program\obj\Debug\net8.0\Exception_Program.AssemblyInfoInputs.cache
+C:\Users\itsyb\OneDrive\Documents\Exception_Program\obj\Debug\net8.0\Exception_Program.AssemblyInfo.cs
+C:\Users\itsyb\OneDrive\Documents\Exception_Program\obj\Debug\net8.0\Exception_Program.csproj.CoreCompileInputs.cache
+C:\Users\itsyb\OneDrive\Documents\Exception_Program\obj\Debug\net8.0\Exception_Program.dll
+C:\Users\itsyb\OneDrive\Documents\Exception_Program\obj\Debug\net8.0\refint\Exception_Program.dll
+C:\Users\itsyb\OneDrive\Documents\Exception_Program\obj\Debug\net8.0\Exception_Program.pdb
+C:\Users\itsyb\OneDrive\Documents\Exception_Program\obj\Debug\net8.0\Exception_Program.genruntimeconfig.cache
+C:\Users\itsyb\OneDrive\Documents\Exception_Program\obj\Debug\net8.0\ref\Exception_Program.dll
