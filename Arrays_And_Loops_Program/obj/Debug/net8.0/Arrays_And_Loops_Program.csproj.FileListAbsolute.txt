@@ -1,0 +1,14 @@
+C:\Users\itsyb\OneDrive\Documents\Arrays_And_Loops_Program\bin\Debug\net8.0\Arrays_And_Loops_Program.exe
+C:\Users\itsyb\OneDrive\Documents\Arrays_And_Loops_Program\bin\Debug\net8.0\Arrays_And_Loops_Program.deps.json
+C:\Users\itsyb\OneDrive\Documents\Arrays_And_Loops_Program\bin\Debug\net8.0\Arrays_And_Loops_Program.runtimeconfig.json
+C:\Users\itsyb\OneDrive\Documents\Arrays_And_Loops_Program\bin\Debug\net8.0\Arrays_And_Loops_Program.dll
+C:\Users\itsyb\OneDrive\Documents\Arrays_And_Loops_Program\bin\Debug\net8.0\Arrays_And_Loops_Program.pdb
+C:\Users\itsyb\OneDrive\Documents\Arrays_And_Loops_Program\obj\Debug\net8.0\Arrays_And_Loops_Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itsyb\OneDrive\Documents\Arrays_And_Loops_Program\obj\Debug\net8.0\Arrays_And_Loops_Program.AssemblyInfoInputs.cache
+C:\Users\itsyb\OneDrive\Documents\Arrays_And_Loops_Program\obj\Debug\net8.0\Arrays_And_Loops_Program.AssemblyInfo.cs
+C:\Users\itsyb\OneDrive\Documents\Arrays_And_Loops_Program\obj\Debug\net8.0\Arrays_And_Loops_Program.csproj.CoreCompileInputs.cache
+C:\Users\itsyb\OneDrive\Documents\Arrays_And_Loops_Program\obj\Debug\net8.0\Arrays_And_Loops_Program.dll
+C:\Users\itsyb\OneDrive\Documents\Arrays_And_Loops_Program\obj\Debug\net8.0\refint\Arrays_And_Loops_Program.dll
+C:\Users\itsyb\OneDrive\Documents\Arrays_And_Loops_Program\obj\Debug\net8.0\Arrays_And_Loops_Program.pdb
+C:\Users\itsyb\OneDrive\Documents\Arrays_And_Loops_Program\obj\Debug\net8.0\Arrays_And_Loops_Program.genruntimeconfig.cache
+C:\Users\itsyb\OneDrive\Documents\Arrays_And_Loops_Program\obj\Debug\net8.0\ref\Arrays_And_Loops_Program.dll
