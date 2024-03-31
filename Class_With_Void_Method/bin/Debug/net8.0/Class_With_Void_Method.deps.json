@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Class_With_Void_Method/1.0.0": {
+        "runtime": {
+          "Class_With_Void_Method.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Class_With_Void_Method/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
