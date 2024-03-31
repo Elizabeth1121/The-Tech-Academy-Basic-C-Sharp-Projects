@@ -1,0 +1,14 @@
+C:\Users\itsyb\OneDrive\Documents\Multiple_Parameters\bin\Debug\net8.0\Multiple_Parameters.exe
+C:\Users\itsyb\OneDrive\Documents\Multiple_Parameters\bin\Debug\net8.0\Multiple_Parameters.deps.json
+C:\Users\itsyb\OneDrive\Documents\Multiple_Parameters\bin\Debug\net8.0\Multiple_Parameters.runtimeconfig.json
+C:\Users\itsyb\OneDrive\Documents\Multiple_Parameters\bin\Debug\net8.0\Multiple_Parameters.dll
+C:\Users\itsyb\OneDrive\Documents\Multiple_Parameters\bin\Debug\net8.0\Multiple_Parameters.pdb
+C:\Users\itsyb\OneDrive\Documents\Multiple_Parameters\obj\Debug\net8.0\Multiple_Parameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itsyb\OneDrive\Documents\Multiple_Parameters\obj\Debug\net8.0\Multiple_Parameters.AssemblyInfoInputs.cache
+C:\Users\itsyb\OneDrive\Documents\Multiple_Parameters\obj\Debug\net8.0\Multiple_Parameters.AssemblyInfo.cs
+C:\Users\itsyb\OneDrive\Documents\Multiple_Parameters\obj\Debug\net8.0\Multiple_Parameters.csproj.CoreCompileInputs.cache
+C:\Users\itsyb\OneDrive\Documents\Multiple_Parameters\obj\Debug\net8.0\Multiple_Parameters.dll
+C:\Users\itsyb\OneDrive\Documents\Multiple_Parameters\obj\Debug\net8.0\refint\Multiple_Parameters.dll
+C:\Users\itsyb\OneDrive\Documents\Multiple_Parameters\obj\Debug\net8.0\Multiple_Parameters.pdb
+C:\Users\itsyb\OneDrive\Documents\Multiple_Parameters\obj\Debug\net8.0\Multiple_Parameters.genruntimeconfig.cache
+C:\Users\itsyb\OneDrive\Documents\Multiple_Parameters\obj\Debug\net8.0\ref\Multiple_Parameters.dll
