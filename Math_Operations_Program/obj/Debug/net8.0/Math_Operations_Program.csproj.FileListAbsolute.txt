@@ -1,0 +1,4 @@
+C:\Users\itsyb\OneDrive\Documents\Math_Operations_Program\obj\Debug\net8.0\Math_Operations_Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itsyb\OneDrive\Documents\Math_Operations_Program\obj\Debug\net8.0\Math_Operations_Program.AssemblyInfoInputs.cache
+C:\Users\itsyb\OneDrive\Documents\Math_Operations_Program\obj\Debug\net8.0\Math_Operations_Program.AssemblyInfo.cs
+C:\Users\itsyb\OneDrive\Documents\Math_Operations_Program\obj\Debug\net8.0\Math_Operations_Program.csproj.CoreCompileInputs.cache
