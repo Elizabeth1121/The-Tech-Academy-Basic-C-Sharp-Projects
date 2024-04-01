@@ -1,0 +1,15 @@
+C:\Users\itsyb\OneDrive\Documents\Employee_Program\bin\Debug\net7.0\Employee_Program.exe
+C:\Users\itsyb\OneDrive\Documents\Employee_Program\bin\Debug\net7.0\Employee_Program.deps.json
+C:\Users\itsyb\OneDrive\Documents\Employee_Program\bin\Debug\net7.0\Employee_Program.runtimeconfig.json
+C:\Users\itsyb\OneDrive\Documents\Employee_Program\bin\Debug\net7.0\Employee_Program.dll
+C:\Users\itsyb\OneDrive\Documents\Employee_Program\bin\Debug\net7.0\Employee_Program.pdb
+C:\Users\itsyb\OneDrive\Documents\Employee_Program\obj\Debug\net7.0\Employee_Program.csproj.AssemblyReference.cache
+C:\Users\itsyb\OneDrive\Documents\Employee_Program\obj\Debug\net7.0\Employee_Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itsyb\OneDrive\Documents\Employee_Program\obj\Debug\net7.0\Employee_Program.AssemblyInfoInputs.cache
+C:\Users\itsyb\OneDrive\Documents\Employee_Program\obj\Debug\net7.0\Employee_Program.AssemblyInfo.cs
+C:\Users\itsyb\OneDrive\Documents\Employee_Program\obj\Debug\net7.0\Employee_Program.csproj.CoreCompileInputs.cache
+C:\Users\itsyb\OneDrive\Documents\Employee_Program\obj\Debug\net7.0\Employee_Program.dll
+C:\Users\itsyb\OneDrive\Documents\Employee_Program\obj\Debug\net7.0\refint\Employee_Program.dll
+C:\Users\itsyb\OneDrive\Documents\Employee_Program\obj\Debug\net7.0\Employee_Program.pdb
+C:\Users\itsyb\OneDrive\Documents\Employee_Program\obj\Debug\net7.0\Employee_Program.genruntimeconfig.cache
+C:\Users\itsyb\OneDrive\Documents\Employee_Program\obj\Debug\net7.0\ref\Employee_Program.dll
