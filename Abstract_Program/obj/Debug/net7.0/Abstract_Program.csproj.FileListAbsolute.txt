@@ -1,0 +1,15 @@
+C:\Users\itsyb\OneDrive\Documents\Abstract_Program\bin\Debug\net7.0\Abstract_Program.exe
+C:\Users\itsyb\OneDrive\Documents\Abstract_Program\bin\Debug\net7.0\Abstract_Program.deps.json
+C:\Users\itsyb\OneDrive\Documents\Abstract_Program\bin\Debug\net7.0\Abstract_Program.runtimeconfig.json
+C:\Users\itsyb\OneDrive\Documents\Abstract_Program\bin\Debug\net7.0\Abstract_Program.dll
+C:\Users\itsyb\OneDrive\Documents\Abstract_Program\bin\Debug\net7.0\Abstract_Program.pdb
+C:\Users\itsyb\OneDrive\Documents\Abstract_Program\obj\Debug\net7.0\Abstract_Program.csproj.AssemblyReference.cache
+C:\Users\itsyb\OneDrive\Documents\Abstract_Program\obj\Debug\net7.0\Abstract_Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itsyb\OneDrive\Documents\Abstract_Program\obj\Debug\net7.0\Abstract_Program.AssemblyInfoInputs.cache
+C:\Users\itsyb\OneDrive\Documents\Abstract_Program\obj\Debug\net7.0\Abstract_Program.AssemblyInfo.cs
+C:\Users\itsyb\OneDrive\Documents\Abstract_Program\obj\Debug\net7.0\Abstract_Program.csproj.CoreCompileInputs.cache
+C:\Users\itsyb\OneDrive\Documents\Abstract_Program\obj\Debug\net7.0\Abstract_Program.dll
+C:\Users\itsyb\OneDrive\Documents\Abstract_Program\obj\Debug\net7.0\refint\Abstract_Program.dll
+C:\Users\itsyb\OneDrive\Documents\Abstract_Program\obj\Debug\net7.0\Abstract_Program.pdb
+C:\Users\itsyb\OneDrive\Documents\Abstract_Program\obj\Debug\net7.0\Abstract_Program.genruntimeconfig.cache
+C:\Users\itsyb\OneDrive\Documents\Abstract_Program\obj\Debug\net7.0\ref\Abstract_Program.dll
