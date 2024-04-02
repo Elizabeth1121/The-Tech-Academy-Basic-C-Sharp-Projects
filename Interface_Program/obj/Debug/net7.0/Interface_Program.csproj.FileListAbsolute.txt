@@ -1,0 +1,15 @@
+C:\Users\itsyb\OneDrive\Documents\Interface_Program\bin\Debug\net7.0\Interface_Program.exe
+C:\Users\itsyb\OneDrive\Documents\Interface_Program\bin\Debug\net7.0\Interface_Program.deps.json
+C:\Users\itsyb\OneDrive\Documents\Interface_Program\bin\Debug\net7.0\Interface_Program.runtimeconfig.json
+C:\Users\itsyb\OneDrive\Documents\Interface_Program\bin\Debug\net7.0\Interface_Program.dll
+C:\Users\itsyb\OneDrive\Documents\Interface_Program\bin\Debug\net7.0\Interface_Program.pdb
+C:\Users\itsyb\OneDrive\Documents\Interface_Program\obj\Debug\net7.0\Interface_Program.csproj.AssemblyReference.cache
+C:\Users\itsyb\OneDrive\Documents\Interface_Program\obj\Debug\net7.0\Interface_Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itsyb\OneDrive\Documents\Interface_Program\obj\Debug\net7.0\Interface_Program.AssemblyInfoInputs.cache
+C:\Users\itsyb\OneDrive\Documents\Interface_Program\obj\Debug\net7.0\Interface_Program.AssemblyInfo.cs
+C:\Users\itsyb\OneDrive\Documents\Interface_Program\obj\Debug\net7.0\Interface_Program.csproj.CoreCompileInputs.cache
+C:\Users\itsyb\OneDrive\Documents\Interface_Program\obj\Debug\net7.0\Interface_Program.dll
+C:\Users\itsyb\OneDrive\Documents\Interface_Program\obj\Debug\net7.0\refint\Interface_Program.dll
+C:\Users\itsyb\OneDrive\Documents\Interface_Program\obj\Debug\net7.0\Interface_Program.pdb
+C:\Users\itsyb\OneDrive\Documents\Interface_Program\obj\Debug\net7.0\Interface_Program.genruntimeconfig.cache
+C:\Users\itsyb\OneDrive\Documents\Interface_Program\obj\Debug\net7.0\ref\Interface_Program.dll
