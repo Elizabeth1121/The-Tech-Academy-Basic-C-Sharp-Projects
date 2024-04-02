@@ -1,0 +1,15 @@
+C:\Users\itsyb\OneDrive\Documents\Generic_Type_Parameter_Assignment\bin\Debug\net7.0\Generic_Type_Parameter_Assignment.exe
+C:\Users\itsyb\OneDrive\Documents\Generic_Type_Parameter_Assignment\bin\Debug\net7.0\Generic_Type_Parameter_Assignment.deps.json
+C:\Users\itsyb\OneDrive\Documents\Generic_Type_Parameter_Assignment\bin\Debug\net7.0\Generic_Type_Parameter_Assignment.runtimeconfig.json
+C:\Users\itsyb\OneDrive\Documents\Generic_Type_Parameter_Assignment\bin\Debug\net7.0\Generic_Type_Parameter_Assignment.dll
+C:\Users\itsyb\OneDrive\Documents\Generic_Type_Parameter_Assignment\bin\Debug\net7.0\Generic_Type_Parameter_Assignment.pdb
+C:\Users\itsyb\OneDrive\Documents\Generic_Type_Parameter_Assignment\obj\Debug\net7.0\Generic_Type_Parameter_Assignment.csproj.AssemblyReference.cache
+C:\Users\itsyb\OneDrive\Documents\Generic_Type_Parameter_Assignment\obj\Debug\net7.0\Generic_Type_Parameter_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itsyb\OneDrive\Documents\Generic_Type_Parameter_Assignment\obj\Debug\net7.0\Generic_Type_Parameter_Assignment.AssemblyInfoInputs.cache
+C:\Users\itsyb\OneDrive\Documents\Generic_Type_Parameter_Assignment\obj\Debug\net7.0\Generic_Type_Parameter_Assignment.AssemblyInfo.cs
+C:\Users\itsyb\OneDrive\Documents\Generic_Type_Parameter_Assignment\obj\Debug\net7.0\Generic_Type_Parameter_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\itsyb\OneDrive\Documents\Generic_Type_Parameter_Assignment\obj\Debug\net7.0\Generic_Type_Parameter_Assignment.dll
+C:\Users\itsyb\OneDrive\Documents\Generic_Type_Parameter_Assignment\obj\Debug\net7.0\refint\Generic_Type_Parameter_Assignment.dll
+C:\Users\itsyb\OneDrive\Documents\Generic_Type_Parameter_Assignment\obj\Debug\net7.0\Generic_Type_Parameter_Assignment.pdb
+C:\Users\itsyb\OneDrive\Documents\Generic_Type_Parameter_Assignment\obj\Debug\net7.0\Generic_Type_Parameter_Assignment.genruntimeconfig.cache
+C:\Users\itsyb\OneDrive\Documents\Generic_Type_Parameter_Assignment\obj\Debug\net7.0\ref\Generic_Type_Parameter_Assignment.dll
