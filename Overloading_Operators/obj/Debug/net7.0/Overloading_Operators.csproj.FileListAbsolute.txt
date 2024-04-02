@@ -1,0 +1,15 @@
+C:\Users\itsyb\OneDrive\Documents\Overloading_Operators\bin\Debug\net7.0\Overloading_Operators.exe
+C:\Users\itsyb\OneDrive\Documents\Overloading_Operators\bin\Debug\net7.0\Overloading_Operators.deps.json
+C:\Users\itsyb\OneDrive\Documents\Overloading_Operators\bin\Debug\net7.0\Overloading_Operators.runtimeconfig.json
+C:\Users\itsyb\OneDrive\Documents\Overloading_Operators\bin\Debug\net7.0\Overloading_Operators.dll
+C:\Users\itsyb\OneDrive\Documents\Overloading_Operators\bin\Debug\net7.0\Overloading_Operators.pdb
+C:\Users\itsyb\OneDrive\Documents\Overloading_Operators\obj\Debug\net7.0\Overloading_Operators.csproj.AssemblyReference.cache
+C:\Users\itsyb\OneDrive\Documents\Overloading_Operators\obj\Debug\net7.0\Overloading_Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itsyb\OneDrive\Documents\Overloading_Operators\obj\Debug\net7.0\Overloading_Operators.AssemblyInfoInputs.cache
+C:\Users\itsyb\OneDrive\Documents\Overloading_Operators\obj\Debug\net7.0\Overloading_Operators.AssemblyInfo.cs
+C:\Users\itsyb\OneDrive\Documents\Overloading_Operators\obj\Debug\net7.0\Overloading_Operators.csproj.CoreCompileInputs.cache
+C:\Users\itsyb\OneDrive\Documents\Overloading_Operators\obj\Debug\net7.0\Overloading_Operators.dll
+C:\Users\itsyb\OneDrive\Documents\Overloading_Operators\obj\Debug\net7.0\refint\Overloading_Operators.dll
+C:\Users\itsyb\OneDrive\Documents\Overloading_Operators\obj\Debug\net7.0\Overloading_Operators.pdb
+C:\Users\itsyb\OneDrive\Documents\Overloading_Operators\obj\Debug\net7.0\Overloading_Operators.genruntimeconfig.cache
+C:\Users\itsyb\OneDrive\Documents\Overloading_Operators\obj\Debug\net7.0\ref\Overloading_Operators.dll
