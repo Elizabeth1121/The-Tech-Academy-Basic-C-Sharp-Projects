@@ -1,0 +1,15 @@
+C:\Users\itsyb\OneDrive\Documents\Struct_Program\bin\Debug\net7.0\Struct_Program.exe
+C:\Users\itsyb\OneDrive\Documents\Struct_Program\bin\Debug\net7.0\Struct_Program.deps.json
+C:\Users\itsyb\OneDrive\Documents\Struct_Program\bin\Debug\net7.0\Struct_Program.runtimeconfig.json
+C:\Users\itsyb\OneDrive\Documents\Struct_Program\bin\Debug\net7.0\Struct_Program.dll
+C:\Users\itsyb\OneDrive\Documents\Struct_Program\bin\Debug\net7.0\Struct_Program.pdb
+C:\Users\itsyb\OneDrive\Documents\Struct_Program\obj\Debug\net7.0\Struct_Program.csproj.AssemblyReference.cache
+C:\Users\itsyb\OneDrive\Documents\Struct_Program\obj\Debug\net7.0\Struct_Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itsyb\OneDrive\Documents\Struct_Program\obj\Debug\net7.0\Struct_Program.AssemblyInfoInputs.cache
+C:\Users\itsyb\OneDrive\Documents\Struct_Program\obj\Debug\net7.0\Struct_Program.AssemblyInfo.cs
+C:\Users\itsyb\OneDrive\Documents\Struct_Program\obj\Debug\net7.0\Struct_Program.csproj.CoreCompileInputs.cache
+C:\Users\itsyb\OneDrive\Documents\Struct_Program\obj\Debug\net7.0\Struct_Program.dll
+C:\Users\itsyb\OneDrive\Documents\Struct_Program\obj\Debug\net7.0\refint\Struct_Program.dll
+C:\Users\itsyb\OneDrive\Documents\Struct_Program\obj\Debug\net7.0\Struct_Program.pdb
+C:\Users\itsyb\OneDrive\Documents\Struct_Program\obj\Debug\net7.0\Struct_Program.genruntimeconfig.cache
+C:\Users\itsyb\OneDrive\Documents\Struct_Program\obj\Debug\net7.0\ref\Struct_Program.dll
