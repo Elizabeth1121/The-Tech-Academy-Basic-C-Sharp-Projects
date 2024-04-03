@@ -1,0 +1,15 @@
+C:\Users\itsyb\OneDrive\Documents\Lambda_Assignment\bin\Debug\net7.0\Lambda_Assignment.exe
+C:\Users\itsyb\OneDrive\Documents\Lambda_Assignment\bin\Debug\net7.0\Lambda_Assignment.deps.json
+C:\Users\itsyb\OneDrive\Documents\Lambda_Assignment\bin\Debug\net7.0\Lambda_Assignment.runtimeconfig.json
+C:\Users\itsyb\OneDrive\Documents\Lambda_Assignment\bin\Debug\net7.0\Lambda_Assignment.dll
+C:\Users\itsyb\OneDrive\Documents\Lambda_Assignment\bin\Debug\net7.0\Lambda_Assignment.pdb
+C:\Users\itsyb\OneDrive\Documents\Lambda_Assignment\obj\Debug\net7.0\Lambda_Assignment.csproj.AssemblyReference.cache
+C:\Users\itsyb\OneDrive\Documents\Lambda_Assignment\obj\Debug\net7.0\Lambda_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itsyb\OneDrive\Documents\Lambda_Assignment\obj\Debug\net7.0\Lambda_Assignment.AssemblyInfoInputs.cache
+C:\Users\itsyb\OneDrive\Documents\Lambda_Assignment\obj\Debug\net7.0\Lambda_Assignment.AssemblyInfo.cs
+C:\Users\itsyb\OneDrive\Documents\Lambda_Assignment\obj\Debug\net7.0\Lambda_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\itsyb\OneDrive\Documents\Lambda_Assignment\obj\Debug\net7.0\Lambda_Assignment.dll
+C:\Users\itsyb\OneDrive\Documents\Lambda_Assignment\obj\Debug\net7.0\refint\Lambda_Assignment.dll
+C:\Users\itsyb\OneDrive\Documents\Lambda_Assignment\obj\Debug\net7.0\Lambda_Assignment.pdb
+C:\Users\itsyb\OneDrive\Documents\Lambda_Assignment\obj\Debug\net7.0\Lambda_Assignment.genruntimeconfig.cache
+C:\Users\itsyb\OneDrive\Documents\Lambda_Assignment\obj\Debug\net7.0\ref\Lambda_Assignment.dll
