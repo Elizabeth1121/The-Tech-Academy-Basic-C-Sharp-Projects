@@ -1,0 +1,15 @@
+C:\Users\itsyb\OneDrive\Documents\Enum_Days_Of_The_Week_Program\bin\Debug\net7.0\Enum_Days_Of_The_Week_Program.exe
+C:\Users\itsyb\OneDrive\Documents\Enum_Days_Of_The_Week_Program\bin\Debug\net7.0\Enum_Days_Of_The_Week_Program.deps.json
+C:\Users\itsyb\OneDrive\Documents\Enum_Days_Of_The_Week_Program\bin\Debug\net7.0\Enum_Days_Of_The_Week_Program.runtimeconfig.json
+C:\Users\itsyb\OneDrive\Documents\Enum_Days_Of_The_Week_Program\bin\Debug\net7.0\Enum_Days_Of_The_Week_Program.dll
+C:\Users\itsyb\OneDrive\Documents\Enum_Days_Of_The_Week_Program\bin\Debug\net7.0\Enum_Days_Of_The_Week_Program.pdb
+C:\Users\itsyb\OneDrive\Documents\Enum_Days_Of_The_Week_Program\obj\Debug\net7.0\Enum_Days_Of_The_Week_Program.csproj.AssemblyReference.cache
+C:\Users\itsyb\OneDrive\Documents\Enum_Days_Of_The_Week_Program\obj\Debug\net7.0\Enum_Days_Of_The_Week_Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itsyb\OneDrive\Documents\Enum_Days_Of_The_Week_Program\obj\Debug\net7.0\Enum_Days_Of_The_Week_Program.AssemblyInfoInputs.cache
+C:\Users\itsyb\OneDrive\Documents\Enum_Days_Of_The_Week_Program\obj\Debug\net7.0\Enum_Days_Of_The_Week_Program.AssemblyInfo.cs
+C:\Users\itsyb\OneDrive\Documents\Enum_Days_Of_The_Week_Program\obj\Debug\net7.0\Enum_Days_Of_The_Week_Program.csproj.CoreCompileInputs.cache
+C:\Users\itsyb\OneDrive\Documents\Enum_Days_Of_The_Week_Program\obj\Debug\net7.0\Enum_Days_Of_The_Week_Program.dll
+C:\Users\itsyb\OneDrive\Documents\Enum_Days_Of_The_Week_Program\obj\Debug\net7.0\refint\Enum_Days_Of_The_Week_Program.dll
+C:\Users\itsyb\OneDrive\Documents\Enum_Days_Of_The_Week_Program\obj\Debug\net7.0\Enum_Days_Of_The_Week_Program.pdb
+C:\Users\itsyb\OneDrive\Documents\Enum_Days_Of_The_Week_Program\obj\Debug\net7.0\Enum_Days_Of_The_Week_Program.genruntimeconfig.cache
+C:\Users\itsyb\OneDrive\Documents\Enum_Days_Of_The_Week_Program\obj\Debug\net7.0\ref\Enum_Days_Of_The_Week_Program.dll

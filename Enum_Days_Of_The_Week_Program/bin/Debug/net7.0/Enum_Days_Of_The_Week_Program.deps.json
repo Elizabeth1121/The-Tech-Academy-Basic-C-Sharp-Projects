@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Enum_Days_Of_The_Week_Program/1.0.0": {
+        "runtime": {
+          "Enum_Days_Of_The_Week_Program.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Enum_Days_Of_The_Week_Program/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
