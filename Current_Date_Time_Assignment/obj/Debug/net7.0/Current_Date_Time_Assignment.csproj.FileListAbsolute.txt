@@ -1,0 +1,15 @@
+C:\Users\itsyb\OneDrive\Documents\Current_Date_Time_Assignment\bin\Debug\net7.0\Current_Date_Time_Assignment.exe
+C:\Users\itsyb\OneDrive\Documents\Current_Date_Time_Assignment\bin\Debug\net7.0\Current_Date_Time_Assignment.deps.json
+C:\Users\itsyb\OneDrive\Documents\Current_Date_Time_Assignment\bin\Debug\net7.0\Current_Date_Time_Assignment.runtimeconfig.json
+C:\Users\itsyb\OneDrive\Documents\Current_Date_Time_Assignment\bin\Debug\net7.0\Current_Date_Time_Assignment.dll
+C:\Users\itsyb\OneDrive\Documents\Current_Date_Time_Assignment\bin\Debug\net7.0\Current_Date_Time_Assignment.pdb
+C:\Users\itsyb\OneDrive\Documents\Current_Date_Time_Assignment\obj\Debug\net7.0\Current_Date_Time_Assignment.csproj.AssemblyReference.cache
+C:\Users\itsyb\OneDrive\Documents\Current_Date_Time_Assignment\obj\Debug\net7.0\Current_Date_Time_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itsyb\OneDrive\Documents\Current_Date_Time_Assignment\obj\Debug\net7.0\Current_Date_Time_Assignment.AssemblyInfoInputs.cache
+C:\Users\itsyb\OneDrive\Documents\Current_Date_Time_Assignment\obj\Debug\net7.0\Current_Date_Time_Assignment.AssemblyInfo.cs
+C:\Users\itsyb\OneDrive\Documents\Current_Date_Time_Assignment\obj\Debug\net7.0\Current_Date_Time_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\itsyb\OneDrive\Documents\Current_Date_Time_Assignment\obj\Debug\net7.0\Current_Date_Time_Assignment.dll
+C:\Users\itsyb\OneDrive\Documents\Current_Date_Time_Assignment\obj\Debug\net7.0\refint\Current_Date_Time_Assignment.dll
+C:\Users\itsyb\OneDrive\Documents\Current_Date_Time_Assignment\obj\Debug\net7.0\Current_Date_Time_Assignment.pdb
+C:\Users\itsyb\OneDrive\Documents\Current_Date_Time_Assignment\obj\Debug\net7.0\Current_Date_Time_Assignment.genruntimeconfig.cache
+C:\Users\itsyb\OneDrive\Documents\Current_Date_Time_Assignment\obj\Debug\net7.0\ref\Current_Date_Time_Assignment.dll
