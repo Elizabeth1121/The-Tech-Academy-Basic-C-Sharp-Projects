@@ -1,0 +1,15 @@
+C:\Users\itsyb\OneDrive\Documents\TryCatch_Assignment\bin\Debug\net7.0\TryCatch_Assignment.exe
+C:\Users\itsyb\OneDrive\Documents\TryCatch_Assignment\bin\Debug\net7.0\TryCatch_Assignment.deps.json
+C:\Users\itsyb\OneDrive\Documents\TryCatch_Assignment\bin\Debug\net7.0\TryCatch_Assignment.runtimeconfig.json
+C:\Users\itsyb\OneDrive\Documents\TryCatch_Assignment\bin\Debug\net7.0\TryCatch_Assignment.dll
+C:\Users\itsyb\OneDrive\Documents\TryCatch_Assignment\bin\Debug\net7.0\TryCatch_Assignment.pdb
+C:\Users\itsyb\OneDrive\Documents\TryCatch_Assignment\obj\Debug\net7.0\TryCatch_Assignment.csproj.AssemblyReference.cache
+C:\Users\itsyb\OneDrive\Documents\TryCatch_Assignment\obj\Debug\net7.0\TryCatch_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itsyb\OneDrive\Documents\TryCatch_Assignment\obj\Debug\net7.0\TryCatch_Assignment.AssemblyInfoInputs.cache
+C:\Users\itsyb\OneDrive\Documents\TryCatch_Assignment\obj\Debug\net7.0\TryCatch_Assignment.AssemblyInfo.cs
+C:\Users\itsyb\OneDrive\Documents\TryCatch_Assignment\obj\Debug\net7.0\TryCatch_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\itsyb\OneDrive\Documents\TryCatch_Assignment\obj\Debug\net7.0\TryCatch_Assignment.dll
+C:\Users\itsyb\OneDrive\Documents\TryCatch_Assignment\obj\Debug\net7.0\refint\TryCatch_Assignment.dll
+C:\Users\itsyb\OneDrive\Documents\TryCatch_Assignment\obj\Debug\net7.0\TryCatch_Assignment.pdb
+C:\Users\itsyb\OneDrive\Documents\TryCatch_Assignment\obj\Debug\net7.0\TryCatch_Assignment.genruntimeconfig.cache
+C:\Users\itsyb\OneDrive\Documents\TryCatch_Assignment\obj\Debug\net7.0\ref\TryCatch_Assignment.dll
