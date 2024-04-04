@@ -1,0 +1,15 @@
+C:\Users\itsyb\OneDrive\Documents\Writing_Txt_To_A_File_Assignment\bin\Debug\net7.0\Writing_Txt_To_A_File_Assignment.exe
+C:\Users\itsyb\OneDrive\Documents\Writing_Txt_To_A_File_Assignment\bin\Debug\net7.0\Writing_Txt_To_A_File_Assignment.deps.json
+C:\Users\itsyb\OneDrive\Documents\Writing_Txt_To_A_File_Assignment\bin\Debug\net7.0\Writing_Txt_To_A_File_Assignment.runtimeconfig.json
+C:\Users\itsyb\OneDrive\Documents\Writing_Txt_To_A_File_Assignment\bin\Debug\net7.0\Writing_Txt_To_A_File_Assignment.dll
+C:\Users\itsyb\OneDrive\Documents\Writing_Txt_To_A_File_Assignment\bin\Debug\net7.0\Writing_Txt_To_A_File_Assignment.pdb
+C:\Users\itsyb\OneDrive\Documents\Writing_Txt_To_A_File_Assignment\obj\Debug\net7.0\Writing_Txt_To_A_File_Assignment.csproj.AssemblyReference.cache
+C:\Users\itsyb\OneDrive\Documents\Writing_Txt_To_A_File_Assignment\obj\Debug\net7.0\Writing_Txt_To_A_File_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itsyb\OneDrive\Documents\Writing_Txt_To_A_File_Assignment\obj\Debug\net7.0\Writing_Txt_To_A_File_Assignment.AssemblyInfoInputs.cache
+C:\Users\itsyb\OneDrive\Documents\Writing_Txt_To_A_File_Assignment\obj\Debug\net7.0\Writing_Txt_To_A_File_Assignment.AssemblyInfo.cs
+C:\Users\itsyb\OneDrive\Documents\Writing_Txt_To_A_File_Assignment\obj\Debug\net7.0\Writing_Txt_To_A_File_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\itsyb\OneDrive\Documents\Writing_Txt_To_A_File_Assignment\obj\Debug\net7.0\Writing_Txt_To_A_File_Assignment.dll
+C:\Users\itsyb\OneDrive\Documents\Writing_Txt_To_A_File_Assignment\obj\Debug\net7.0\refint\Writing_Txt_To_A_File_Assignment.dll
+C:\Users\itsyb\OneDrive\Documents\Writing_Txt_To_A_File_Assignment\obj\Debug\net7.0\Writing_Txt_To_A_File_Assignment.pdb
+C:\Users\itsyb\OneDrive\Documents\Writing_Txt_To_A_File_Assignment\obj\Debug\net7.0\Writing_Txt_To_A_File_Assignment.genruntimeconfig.cache
+C:\Users\itsyb\OneDrive\Documents\Writing_Txt_To_A_File_Assignment\obj\Debug\net7.0\ref\Writing_Txt_To_A_File_Assignment.dll

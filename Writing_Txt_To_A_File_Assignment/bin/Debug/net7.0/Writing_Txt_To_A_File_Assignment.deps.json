@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Writing_Txt_To_A_File_Assignment/1.0.0": {
+        "runtime": {
+          "Writing_Txt_To_A_File_Assignment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Writing_Txt_To_A_File_Assignment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
