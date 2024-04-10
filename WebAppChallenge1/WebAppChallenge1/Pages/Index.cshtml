@@ -1,0 +1,15 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h2 class="display-4">Current Server Time: </h2>
+    
+    <!--make a rounded edge border around what will be the server time and make the inside of it like a dark green -->
+    <div class="ServerBorder">       
+        <!-- use the GetServerTime method and display the server time -->
+        <h2>@Model.GetServerTime()</h2>   
+    </div>
+</div>
