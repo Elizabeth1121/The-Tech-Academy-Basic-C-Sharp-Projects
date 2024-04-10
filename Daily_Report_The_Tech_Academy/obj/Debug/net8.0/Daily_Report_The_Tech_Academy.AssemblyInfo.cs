@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Daily_Report_The_Tech_Academy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a3ac273985051ced9564b42f3d4378e0cbc75b2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Daily_Report_The_Tech_Academy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Daily_Report_The_Tech_Academy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
