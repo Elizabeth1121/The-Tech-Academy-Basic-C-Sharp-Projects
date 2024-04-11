@@ -1,0 +1,15 @@
+C:\Users\itsyb\OneDrive\Documents\The-Tech-Academy-Basic-C-Sharp-Projects\EFChallenge\bin\Debug\EFChallenge.exe.config
+C:\Users\itsyb\OneDrive\Documents\The-Tech-Academy-Basic-C-Sharp-Projects\EFChallenge\bin\Debug\EFChallenge.exe
+C:\Users\itsyb\OneDrive\Documents\The-Tech-Academy-Basic-C-Sharp-Projects\EFChallenge\bin\Debug\EFChallenge.pdb
+C:\Users\itsyb\OneDrive\Documents\The-Tech-Academy-Basic-C-Sharp-Projects\EFChallenge\bin\Debug\EntityFramework.dll
+C:\Users\itsyb\OneDrive\Documents\The-Tech-Academy-Basic-C-Sharp-Projects\EFChallenge\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\itsyb\OneDrive\Documents\The-Tech-Academy-Basic-C-Sharp-Projects\EFChallenge\bin\Debug\EntityFramework.xml
+C:\Users\itsyb\OneDrive\Documents\The-Tech-Academy-Basic-C-Sharp-Projects\EFChallenge\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\itsyb\OneDrive\Documents\The-Tech-Academy-Basic-C-Sharp-Projects\EFChallenge\obj\Debug\EFChallenge.csproj.AssemblyReference.cache
+C:\Users\itsyb\OneDrive\Documents\The-Tech-Academy-Basic-C-Sharp-Projects\EFChallenge\obj\Debug\EFChallenge.csproj.SuggestedBindingRedirects.cache
+C:\Users\itsyb\OneDrive\Documents\The-Tech-Academy-Basic-C-Sharp-Projects\EFChallenge\obj\Debug\EFChallenge.csproj.CoreCompileInputs.cache
+C:\Users\itsyb\OneDrive\Documents\The-Tech-Academy-Basic-C-Sharp-Projects\EFChallenge\obj\Debug\EFChallenge.csproj.CopyComplete
+C:\Users\itsyb\OneDrive\Documents\The-Tech-Academy-Basic-C-Sharp-Projects\EFChallenge\obj\Debug\EFChallenge.exe
+C:\Users\itsyb\OneDrive\Documents\The-Tech-Academy-Basic-C-Sharp-Projects\EFChallenge\obj\Debug\EFChallenge.pdb
+C:\Users\itsyb\OneDrive\Documents\The-Tech-Academy-Basic-C-Sharp-Projects\EFChallenge\obj\Debug\EFChallenge.Migrations.CreateStudent.resources
+C:\Users\itsyb\OneDrive\Documents\The-Tech-Academy-Basic-C-Sharp-Projects\EFChallenge\obj\Debug\EFChallenge.csproj.GenerateResource.cache
